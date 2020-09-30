@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genero">
+        <item>Seleccione un género de serie</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Misterio</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
